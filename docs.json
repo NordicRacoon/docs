@@ -35,12 +35,12 @@
                 ]
             },
             {
-                "tab": "API Reference",
+                "tab": "Linux",
                 "groups": [
                     {
-                        "group": "API Documentation",
+                        "group": "Linux",
                         "pages": [
-                            "api-reference/introduction"
+                            "linux/start"
                         ]
                     },
                     {
