@@ -46,10 +46,9 @@
                     {
                         "group": "Endpoint Examples",
                         "pages": [
-                            "api-reference/endpoint/test",
-                            "api-reference/endpoint/create",
-                            "api-reference/endpoint/delete",
-                            "api-reference/endpoint/webhook"
+                            "linux/basics",
+                            "linux/installationen",
+                            "linux/tutorials"
                         ]
                     }
                 ]
